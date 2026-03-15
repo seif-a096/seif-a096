@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-
   <a href="https://github.com/seif-a096"><img src="https://img.shields.io/badge/GitHub-seif--a096-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/seif-atef/"><img src="https://img.shields.io/badge/LinkedIn-seif--atef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifatef2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
