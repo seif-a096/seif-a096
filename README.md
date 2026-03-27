@@ -14,7 +14,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seifatef2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"> 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=seif-a096&theme=onedark&title=MultiLanguage,Joined2020,Commits,Experience&column=4&row=1&margin-w=10&margin-h=10" alt="seif-a096 trophies" />
